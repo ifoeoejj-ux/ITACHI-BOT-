@@ -111,7 +111,8 @@ botstyle: 'https://botstyle-api.herokuapp.com',
 neoxr: 'https://neoxr-api.herokuapp.com',
 ana: 'https://anabotofc.herokuapp.com/',
 kanx: 'https://kannxapi.herokuapp.com/',
-dhnjing: 'https://dhnjing.xyz'
+dhnjing: 'https://dhnjing.xyz',
+YT_API_KEY = 'https://AIzaSyBDC1a2MaAyr2DE2qDnN9IVInwkWFZB348'
 },
 
 global.APIKeys = {
@@ -131,7 +132,8 @@ global.APIKeys = {
 'https://api.lolhuman.xyz': 'GataDiosV2',
 'https://botstyle-api.herokuapp.com': 'Eyar749L',
 'https://neoxr-api.herokuapp.com': 'yntkts',
-'https://anabotofc.herokuapp.com/': 'AnaBot'
+'https://anabotofc.herokuapp.com/': 'AnaBot',
+'https://www.googleapis.com'] = 'AIzaSyBDC1a2MaAyr2DE2qDnN9IVInwkWFZB348'
 } 
 
 let file = fileURLToPath(import.meta.url)
